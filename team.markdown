@@ -7,7 +7,7 @@ class: team
 
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/638225" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-12 columns" markdown="1">
 
 #### Group Leader
 
